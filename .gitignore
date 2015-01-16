@@ -1,0 +1,5 @@
+build
+test/TestMain.hx
+test/TestSuite.hx
+test/CompileTest.hx
+test/ExampleTest.hx
